@@ -46,8 +46,8 @@
       <input type="checkbox" id="option7" name="option7" value="Additional Courses">
       <label for="option7">Additional Courses</label><br><br>
       <label for="review">Review if there is any need to update:</label><br>
-       <textarea id="review" name="review" rows="8" cols="80">
-       </textarea>
+      <textarea id="review" name="review" rows="8" cols="80">
+      </textarea>
     <br><br><br>
     <input type="submit" value="Submit" id="submit">
    </form>
