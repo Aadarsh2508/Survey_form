@@ -14,7 +14,6 @@
     <input type="email" id="email" name="email" placeholder="Enter your email" required><br><br>
     <label for="number" id="number-label">Age</label><br>
     <input type="number" id="number" name="number" min="0"max="100" placeholder="Age" required><br><br>
-    
     <label>Select your occupation </label><br>
     <select id="dropdown" name="Field">
       <option disabled selected value>Select an option</option>
